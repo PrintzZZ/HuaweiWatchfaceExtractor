@@ -13,3 +13,8 @@ Usage: HuaweiWatchFaceExtractor input [outputDir]
 
 ## Build
 Simply `mvn package`
+
+## 使用方法
+安装jdk-8u351-windows-x64
+将hwt表盘文件拖拽到HuaweiWatchfaceExtractor-1.0.1.exe文件上
+你会在当前文件夹下的到一个资源文件夹
